@@ -4,3 +4,7 @@ Logger for ESO
 npm install
 npm start
 ```
+In-game:
+```
+/notf
+```
