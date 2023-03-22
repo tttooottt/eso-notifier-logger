@@ -1,7 +1,8 @@
-import express from 'express';
-import moment from 'moment';
-import fs from 'fs';
-import os from 'os';
+'use strict';
+const express = require('express');
+const moment = require('moment');
+const fs = require('fs');
+const os = require('os');
 
 const port = 9673;
 const dir = 'logs';
