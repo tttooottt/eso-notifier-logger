@@ -8,3 +8,8 @@ In-game:
 ```
 /notf
 ```
+## Build example
+```
+npm i -g pkg
+npm run build
+```
