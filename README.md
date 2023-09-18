@@ -3,6 +3,7 @@ Logger for ESO
 ## In-game
 ```
 /notf
+/disablenotfcmd
 ```
 ## Run options
 ### Code
